@@ -1,0 +1,51 @@
+a:link {
+    
+    text-decoration: none;
+    
+}
+
+a:visited {
+    
+    text-decoration: none;
+    
+}
+
+a:hover {
+    
+    text-decoration: none;
+    
+}
+
+body {
+    
+    margin-left: 3%;
+    margin-right: 3%;
+    background-image: url("../images/fundo2.jpg");
+    background-repeat: repeat;
+    
+}
+
+h1 {
+    
+    text-align: center;
+    color: black;
+    
+}
+
+.paragrafo {
+    
+    font-size: 18pt;
+    
+}
+
+#pagina {
+    
+    background-color: #cccccc;
+    
+}
+
+#rodape {
+    
+    text-align: right;
+    
+}
